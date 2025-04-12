@@ -24,4 +24,4 @@ Here is where you'll find the live version of the site powered by this repositor
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for more details.
