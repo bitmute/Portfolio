@@ -3,7 +3,8 @@ layout: default
 title: Network Lab
 ---
 
-# Enterprise Network Design & Configuration (CCNA-Level Final Project)
+# Enterprise Network Design & Configuration 
+# (CCNA-Level Final Project)
 
 **Tool Used:** Cisco Packet Tracer  
 **Scope:** Multi-site campus topology with full Layer 2/3 design  
