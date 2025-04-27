@@ -40,7 +40,7 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 </div>
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
-
+</hr>
 ---
 
 # 💻 Showcasing my Homelab and Projects
