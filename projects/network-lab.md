@@ -12,8 +12,8 @@ title: Network Lab
 ## Project Overview
 This project simulates the deployment of an enterprise-grade network infrastructure spanning four major office locations: Los Angeles (HQ), San Diego, San Francisco, and New York. The environment includes core switching, router configurations, wireless, voice, and security integrations using Cisco technologies. The goal was to apply CCNA-level knowledge to create a scalable, redundant, and secure network using best practices.
 
-<!-- Image Container -->
-<div style="display: flex; justify-content: center; align-items: center;">
+<!-- Image Container with margin for spacing -->
+<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
   <img id="networkTopology" src="../Assets/Network_Lab/Network_Topology.png" alt="Network Topology" style="cursor: pointer; max-width: 100%; height: auto;" onclick="expandImage()" />
 </div>
 
