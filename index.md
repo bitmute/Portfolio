@@ -22,8 +22,8 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 **Relevant Courses:** Network Security, System Administration, Cybersecurity Fundamentals
 
 ### Certifications & Experience  
-- **Certifications:** GSEC (GIAC Security Essentials)  
-- **Current Studies:** A+ (soon), TryHackMe
+- **Certifications:** GIAC-GSEC | CompTIA A+
+- **Current Studies:** TryHackMe
 - **Technical Skills:** SIEM, threat analysis, Windows security, networking (CCNA-level)  
 - **Background:** Built complex network topologies, managed endpoints with Intune, and have strong security operations experience.
 
@@ -31,7 +31,11 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 
 <div style="display: flex; gap 100px;">
   <a href="https://www.credly.com/badges/eda603c2-8af8-485f-84f9-8b2901f35842/public_url">
-    <img src="https://images.credly.com/size/110x110/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png" style="width: 100px; height:100px;">
+    <img src="Assets/Certification/giac-security-essentials-certification-gsec.png" style="width: 100px; height:100px;">
+  <a href="https://www.credly.com/badges/fd9bc18e-5a51-48fb-baec-c11ca84ffdda/public_url">
+    <img src="Assets/Certification/comptia-a-ce-certification.1.png" style="width: 100px; height:100px;">
+  <a href="https://www.credly.com/badges/aebdbd01-a8ef-4e2b-8746-93ecfe2f14ae/public_url">
+    <img src="Assets/Certification/giac-advisory-board.1.png" style="width: 100px; height:100px;">   
   </a>
 </div>
 
