@@ -22,7 +22,7 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 **Relevant Courses:** Network Security, System Administration, Cybersecurity Fundamentals
 
 ### Certifications & Experience  
-- **Certifications:** GIAC-GSEC | CompTIA A+
+- **Certifications:** GIAC-GSEC/CompTIA A+
 - **Current Studies:** TryHackMe
 - **Technical Skills:** SIEM, threat analysis, Windows security, networking (CCNA-level)  
 - **Background:** Built complex network topologies, managed endpoints with Intune, and have strong security operations experience.
