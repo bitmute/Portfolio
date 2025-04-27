@@ -29,18 +29,21 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
-<div style="display: flex; gap 100px;">
+<div style="display: flex; gap: 100px;">
   <a href="https://www.credly.com/badges/eda603c2-8af8-485f-84f9-8b2901f35842/public_url">
     <img src="Assets/Certification/giac-security-essentials-certification-gsec.png" style="width: 100px; height:100px;">
+  </a> <!-- Closing the first <a> tag -->
+  
   <a href="https://www.credly.com/badges/fd9bc18e-5a51-48fb-baec-c11ca84ffdda/public_url">
     <img src="Assets/Certification/comptia-a-ce-certification.1.png" style="width: 100px; height:100px;">
+  </a> <!-- Closing the second <a> tag -->
+
   <a href="https://www.credly.com/badges/aebdbd01-a8ef-4e2b-8746-93ecfe2f14ae/public_url">
     <img src="Assets/Certification/giac-advisory-board.1.png" style="width: 100px; height:100px;">   
-  </a>
+  </a> <!-- Closing the third <a> tag -->
 </div>
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
-</hr>
 ---
 
 # 💻 Showcasing my Homelab and Projects
