@@ -8,4 +8,4 @@ This section showcases a curated collection of Splunk queries I’ve developed d
 
 Explore the categories below:
 
-## [🔐 Authentication](./projects/Splunk/Authentication.md)
+## [🔐-Authentication](./projects/Splunk/Authentication.html)
