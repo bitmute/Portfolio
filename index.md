@@ -24,6 +24,7 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 ### Certifications & Experience  
 - **Certifications:**
   - GIAC-GSEC
+  - CompTIA Network+
   - CompTIA A+
 - **Current Studies:** TryHackMe
 - **Technical Skills:** SIEM, threat analysis, Windows security, networking (CCNA-level)  
@@ -39,10 +40,15 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
   <a href="https://www.credly.com/badges/aebdbd01-a8ef-4e2b-8746-93ecfe2f14ae/public_url">
     <img src="Assets/Certification/giac-advisory-board.1.png" style="width: 100px; height:100px;">   
   </a> <!-- Closing the third <a> tag -->
+
+<a href="https://www.credly.com/badges/16380ce9-0baa-4ab4-b71c-c41cefa8b4b2/public_url">
+    <img src="Assets/Certification/comptia-network-ce-certification.1.png" style="width: 100px; height:100px;">
+  </a> <!-- Closing the second <a> tag -->
   
   <a href="https://www.credly.com/badges/fd9bc18e-5a51-48fb-baec-c11ca84ffdda/public_url">
     <img src="Assets/Certification/comptia-a-ce-certification.1.png" style="width: 100px; height:100px;">
   </a> <!-- Closing the second <a> tag -->
+
 </div>
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
@@ -137,6 +143,6 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 ---
 
 # 📈-Goals  
-- Complete my **Bachelor’s degree in the next year**  
-- Earn **CySA+ and Network+**  
+- Complete my **Bachelor’s degree in the next 8 months**  
+- Earn **CySA+ and Pentest+**  
 - Transition into a **SOC role**, then move into **penetration testing**
