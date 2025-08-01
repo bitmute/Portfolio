@@ -55,6 +55,7 @@ I'm a cybersecurity professional on the path to becoming a penetration tester. C
 ---
 
 # 💻 Showcasing my Homelab and Projects
+## [👽-Splunk Detection Queries](./projects/Splunk-Detection-Queries.html)
 ## [🌐-Network Lab](./projects/network-lab.html)
 ## [More Coming Soon]()
 
